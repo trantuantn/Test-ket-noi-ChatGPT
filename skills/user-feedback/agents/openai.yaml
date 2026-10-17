@@ -1,0 +1,4 @@
+interface:
+  display_name: "Phản hồi và yêu cầu làm việc"
+  short_description: "Áp dụng yêu cầu đã xác nhận khi kiểm tra số liệu và soạn văn bản"
+  default_prompt: "Áp dụng $user-feedback để kiểm tra số liệu hoặc soạn văn bản theo các yêu cầu đã ghi nhận của tôi."
